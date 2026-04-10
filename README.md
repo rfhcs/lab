@@ -4,4 +4,7 @@ Fun website experiments that I am working on.
 
 ## TODO 
 
-- [ ] Photo gallery
+- [ x ] Photo gallery
+- [ ] Quote list
+- [ ] Movie list
+- [ ] Reading list
