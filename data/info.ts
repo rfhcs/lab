@@ -10,7 +10,7 @@ export const PROJECTS: Project[] = [
   {
     name: "Gallery",
     description: "Photo gallery to display a small collection of photos you're proud of.",
-    link: "/gallery",
+    link: "/photography",
     cover: "/images/gallery-preview.png",
     id: "p1",
   },
