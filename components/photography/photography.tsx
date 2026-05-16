@@ -23,7 +23,7 @@ export default function Photography({ images }: { images: { path: string; name: 
             }}
           >
             <div className="columns-2 gap-4 px-8 sm:columns-3">
-              {images.map(({ path, name }) => {
+              {images.map(({ path, name }, index) => {
                 const thumbnailSrc = buildSrc({
                   urlEndpoint,
                   src: path,
